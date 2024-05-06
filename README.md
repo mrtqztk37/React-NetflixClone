@@ -18,3 +18,7 @@ https://image.tmdb.org/t/p/original
 # Netflix_clone
 # React_Netflix_Clone
 # React-NetflixClone
+
+# gif
+
+<img src="screen.gif"/>
